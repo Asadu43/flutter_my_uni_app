@@ -1,4 +1,7 @@
-# flutter_firebase_basic
+# Flutter University App
+
+
+![](uniapp.png)
 
 A new Flutter application.
 
